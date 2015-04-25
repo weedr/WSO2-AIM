@@ -1,0 +1,1 @@
+WSO2 API Manager v1.8.0
